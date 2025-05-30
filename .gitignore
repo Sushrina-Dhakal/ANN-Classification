@@ -1,0 +1,17 @@
+# Ignore model and encoder files
+*.pkl
+*.h5
+
+# Ignore log files and folders
+logs/
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
