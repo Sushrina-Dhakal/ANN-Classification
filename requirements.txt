@@ -1,7 +1,9 @@
 tensorflow==2.19.0
 pandas
 numpy
-scikit-learn
+scikit-learn==1.5.2
 matplotlib
 tensorboard
 streamlit
+scikeras
+ipykernel
