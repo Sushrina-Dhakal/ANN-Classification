@@ -1,4 +1,4 @@
-tensorflow==2.19.0
+tensorflow
 pandas
 numpy
 scikit-learn==1.5.2
@@ -7,3 +7,4 @@ tensorboard
 streamlit
 scikeras
 ipykernel
+nltk
